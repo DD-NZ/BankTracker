@@ -1,0 +1,10 @@
+C:\Users\DD\source\repos\BankTracker\BankTracker\bin\Debug\BankTracker.exe.config
+C:\Users\DD\source\repos\BankTracker\BankTracker\bin\Debug\BankTracker.exe
+C:\Users\DD\source\repos\BankTracker\BankTracker\bin\Debug\BankTracker.pdb
+C:\Users\DD\source\repos\BankTracker\BankTracker\obj\Debug\BankTracker.csprojAssemblyReference.cache
+C:\Users\DD\source\repos\BankTracker\BankTracker\obj\Debug\BankTracker.Form1.resources
+C:\Users\DD\source\repos\BankTracker\BankTracker\obj\Debug\BankTracker.Properties.Resources.resources
+C:\Users\DD\source\repos\BankTracker\BankTracker\obj\Debug\BankTracker.csproj.GenerateResource.cache
+C:\Users\DD\source\repos\BankTracker\BankTracker\obj\Debug\BankTracker.csproj.CoreCompileInputs.cache
+C:\Users\DD\source\repos\BankTracker\BankTracker\obj\Debug\BankTracker.exe
+C:\Users\DD\source\repos\BankTracker\BankTracker\obj\Debug\BankTracker.pdb
