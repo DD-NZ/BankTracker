@@ -8,12 +8,12 @@ Here the user can open load an ASB CSV statement file by clicking on the load st
 ## Transactions Screen
 Here all the transactions are displayed on the screen, the user can then search for key words, adjust the From and To Date, as well as if the dates should be ascending or descending.
 
-<img src="Images/loaded.png" height="584px" width="562px"/>
+<img src="Images/loaded.PNG" height="584px" width="562px"/>
 
 ## Filtering
 Example results of search Filtering
 
-<img src="Images/search.png" height="584px" width="562px"/>
+<img src="Images/search.PNG" height="584px" width="562px"/>
 
 
 Example results of date filtering
@@ -22,10 +22,10 @@ Example results of date filtering
 
 <br>
 
-<img src="Images/date.png" height="584px" width="562px"/>
+<img src="Images/date.PNG" height="584px" width="562px"/>
 
 
 ## Stats
 Shows the amount spent for the transactions currently been filtered.
 
-<img src="Images/stats.png" height="584px" width="562px"/>
+<img src="Images/stats.PNG" height="584px" width="562px"/>
