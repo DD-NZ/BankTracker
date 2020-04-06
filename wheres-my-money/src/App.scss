@@ -1,0 +1,58 @@
+#root,
+.App {
+  height: 100%;
+  width: 100%;
+}
+
+.noselect {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.App {
+  .header {
+    background: red;
+    height: 7%;
+  }
+
+  .body {
+    display: flex;
+    height: 93%;
+    width: 100%;
+
+    .toolbar {
+      background: blue;
+      width: 20%;
+    }
+
+    .data {
+      width:80%;
+      margin:auto;
+      .loadContainer {
+        width: 40%;
+        height: 40%;
+        margin: auto;
+        font-size: 2em;
+        .fileDropArea {
+          button {
+            margin: 2em;
+            position: absolute;
+          }
+
+          p {
+            text-align: center;
+            line-height: 10em;
+          }
+          border: 0.5px dashed black;
+        }
+      }
+      .table {
+        margin: 3em;
+      }
+    }
+  }
+}
