@@ -13,45 +13,85 @@
   user-select: none;
 }
 
-.App {
-  .header {
-    background: red;
-    height: 7%;
-  }
 
-  .body {
-    display: flex;
-    height: 93%;
-    width: 100%;
+#body{
+  padding-top: 50px;
+.data {
+  width: 100%;
 
-    .toolbar {
-      background: blue;
-      width: 20%;
+  .dataContent {
+    height: 100%;
+    .displayData {
+      height: 100%;
+      width: 100%;
+      padding: 1em;
+      border-radius: 5px;
+      overflow-y: scroll;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-between;
+      div {
+        max-width: 275px;
+        margin-bottom: 1em;
+      }
     }
 
-    .data {
-      width:80%;
-      margin:auto;
-      .loadContainer {
-        width: 40%;
-        height: 40%;
-        margin: auto;
-        font-size: 2em;
-        .fileDropArea {
-          button {
-            margin: 2em;
-            position: absolute;
-          }
+    .newData {
+      height: 100%;
 
-          p {
-            text-align: center;
-            line-height: 10em;
+      .loadContainer {
+        padding: 10%;
+        height: 100%;
+
+        .fileDropArea {
+          background-color: #D8D8D8;
+          border-radius: 25px;
+          padding: 1em;
+          height: 100%;
+
+          .content {
+            height: 100%;
+            display: flex;
+            border: 0.26em dotted black;
+            border-radius: 25px;
+            align-items: center;
+            flex-wrap: wrap;
+            padding: 1em;
+
+            .row {
+              width: 100%;
+
+              button {
+                background-color: #383838;
+                color: white;
+              }
+            }
+
+            .rowCenter {
+              width: 100%;
+              text-align: center;
+
+              i {
+                color: #383838;
+              }
+
+              p {
+                font-size: 2rem;
+              }
+            }
           }
-          border: 0.5px dashed black;
         }
       }
-      .table {
-        margin: 3em;
+    }
+}
+    .table {
+      .floatLeft {
+        margin-top: 1em;
+        float: left;
+      }
+      .floatRight {
+        margin-top: 1em;
+        float: right;
       }
     }
   }

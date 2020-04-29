@@ -1,0 +1,1363 @@
+[{
+  "extra": ["2020010201", "BANK FEE", ""],
+  "Date": "2020/01/02",
+  "to": "OVERDRAFT FACILITY FEE",
+  "Description": "",
+  "Price": "-2.00"
+}, {
+  "extra": ["2020010202", "TFR OUT", ""],
+  "Date": "2020/01/02",
+  "to": "MB TRANSFER",
+  "Description": "TO 12-3086- 0178195-51",
+  "Price": "-1.98"
+}, {
+  "extra": ["2020010203", "EFTPOS", ""],
+  "Date": "2020/01/02",
+  "to": "RAGLAN ROASTTE UKU RAGLAN",
+  "Description": "EFTPOS",
+  "Price": "-17.00"
+}, {
+  "extra": ["2020010204", "EFTPOS", ""],
+  "Date": "2020/01/02",
+  "to": "Wayver Limited 3/12 Heather",
+  "Description": "EFTPOS",
+  "Price": "-40.00"
+}, {
+  "extra": ["2020010301", "EFTPOS", ""],
+  "Date": "2020/01/03",
+  "to": "KIWI FUELS LTD MATAMATA",
+  "Description": "EFTPOS",
+  "Price": "-59.11"
+}, {
+  "extra": ["2020010302", "EFTPOS", ""],
+  "Date": "2020/01/03",
+  "to": "Subway Matamata 1/42 Broadwa",
+  "Description": "EFTPOS",
+  "Price": "-16.40"
+}, {
+  "extra": ["2020010401", "DEBIT", ""],
+  "Date": "2020/01/04",
+  "to": "DEBIT",
+  "Description": "CARD 7484 MCDONALDS PA PAMOA PAPAMOA",
+  "Price": "-14.30"
+}, {
+  "extra": ["2020010402", "EFTPOS", ""],
+  "Date": "2020/01/04",
+  "to": "Subway Grafton 61 Park Road",
+  "Description": "EFTPOS",
+  "Price": "-21.30"
+}, {
+  "extra": ["2020010403", "EFTPOS", ""],
+  "Date": "2020/01/04",
+  "to": "GRAFTON CONVENIENCE STOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-4.20"
+}, {
+  "extra": ["2020010404", "EFTPOS", ""],
+  "Date": "2020/01/04",
+  "to": "Ruang ThongThai 2 Auckland",
+  "Description": "EFTPOS",
+  "Price": "-43.50"
+}, {
+  "extra": ["2020010501", "DEBIT", ""],
+  "Date": "2020/01/05",
+  "to": "DEBIT",
+  "Description": "CARD 7484 TACOBELL - B RICKWORKS 10 AUCKLAND",
+  "Price": "-39.48"
+}, {
+  "extra": ["2020010601", "D/D", ""],
+  "Date": "2020/01/06",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100CHN001C",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020010602", "EFTPOS", ""],
+  "Date": "2020/01/06",
+  "to": "HOMETOWN SUPERETTE AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-2.50"
+}, {
+  "extra": ["2020010603", "DEBIT", ""],
+  "Date": "2020/01/06",
+  "to": "DEBIT",
+  "Description": "CARD 7484 GILLI CAFE  AUCKLAND",
+  "Price": "-9.00"
+}, {
+  "extra": ["2020010604", "DEBIT", ""],
+  "Date": "2020/01/06",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-8.50"
+}, {
+  "extra": ["2020010701", "CREDIT", ""],
+  "Date": "2020/01/07",
+  "to": "CREDIT",
+  "Description": "ATM DEPOSIT CARD 7484",
+  "Price": "315.00"
+}, {
+  "extra": ["2020010702", "DEBIT", ""],
+  "Date": "2020/01/07",
+  "to": "DEBIT",
+  "Description": "CARD 7484 Stuff Fibre  0800-862-337",
+  "Price": "-54.93"
+}, {
+  "extra": ["2020010801", "EFTPOS", ""],
+  "Date": "2020/01/08",
+  "to": "HOMETOWN SUPERETTE AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-2.50"
+}, {
+  "extra": ["2020010802", "DEBIT", ""],
+  "Date": "2020/01/08",
+  "to": "DEBIT",
+  "Description": "CARD 7484 SPARK PREPAI D 0800323232",
+  "Price": "-19.00"
+}, {
+  "extra": ["2020010803", "DEBIT", ""],
+  "Date": "2020/01/08",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-00 love you",
+  "Price": "-43.96"
+}, {
+  "extra": ["2020010901", "D/C", ""],
+  "Date": "2020/01/09",
+  "to": "D/C FROM McMahon Z J",
+  "Description": "",
+  "Price": "22.75"
+}, {
+  "extra": ["2020010902", "D/C", ""],
+  "Date": "2020/01/09",
+  "to": "D/C FROM McMahon Q J",
+  "Description": "",
+  "Price": "22.75"
+}, {
+  "extra": ["2020010903", "D/C", ""],
+  "Date": "2020/01/09",
+  "to": "D/C FROM ORION SYSTEMS INTERN",
+  "Description": "SALARY  OH SALARY",
+  "Price": "847.14"
+}, {
+  "extra": ["2020011001", "EFTPOS", ""],
+  "Date": "2020/01/10",
+  "to": "Electric Kiwi Auckland",
+  "Description": "EFTPOS",
+  "Price": "-4.99"
+}, {
+  "extra": ["2020011101", "DEBIT", ""],
+  "Date": "2020/01/11",
+  "to": "DEBIT",
+  "Description": "FC12-3010-0133978-00 dan superm",
+  "Price": "-30.00"
+}, {
+  "extra": ["2020011102", "DEBIT", ""],
+  "Date": "2020/01/11",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-01 rent",
+  "Price": "-198.75"
+}, {
+  "extra": ["2020011103", "DEBIT", ""],
+  "Date": "2020/01/11",
+  "to": "DEBIT",
+  "Description": "FC12-3048-0412585-50 coffee",
+  "Price": "-10.00"
+}, {
+  "extra": ["2020011104", "DEBIT", ""],
+  "Date": "2020/01/11",
+  "to": "DEBIT",
+  "Description": "FC12-3048-0308227-50 yumcha",
+  "Price": "-27.00"
+}, {
+  "extra": ["2020011105", "EFTPOS", ""],
+  "Date": "2020/01/11",
+  "to": "THE CHIP SHOP AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-17.60"
+}, {
+  "extra": ["2020011106", "EFTPOS", ""],
+  "Date": "2020/01/11",
+  "to": "BOTTLE O ROYAL OAK AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-29.99"
+}, {
+  "extra": ["2020011201", "DEBIT", ""],
+  "Date": "2020/01/12",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-00 love you",
+  "Price": "-35.00"
+}, {
+  "extra": ["2020011202", "EFTPOS", ""],
+  "Date": "2020/01/12",
+  "to": "Bed Bath   Beyond Auckland",
+  "Description": "EFTPOS",
+  "Price": "-6.90"
+}, {
+  "extra": ["2020011203", "EFTPOS", ""],
+  "Date": "2020/01/12",
+  "to": "PARKGATE FLOWERS AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-24.90"
+}, {
+  "extra": ["2020011204", "EFTPOS", ""],
+  "Date": "2020/01/12",
+  "to": "PARKGATE SUPERETTE EPSOM",
+  "Description": "EFTPOS",
+  "Price": "-5.99"
+}, {
+  "extra": ["2020011205", "CREDIT", ""],
+  "Date": "2020/01/12",
+  "to": "CREDIT",
+  "Description": "From MISS G E RAFE rent",
+  "Price": "30.00"
+}, {
+  "extra": ["2020011301", "D/D", ""],
+  "Date": "2020/01/13",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100CIB001C",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020011401", "DEBIT", ""],
+  "Date": "2020/01/14",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-46.62"
+}, {
+  "extra": ["2020011501", "DEBIT", ""],
+  "Date": "2020/01/15",
+  "to": "DEBIT",
+  "Description": "FC12-3010-0133978-00 ubaeat",
+  "Price": "-35.00"
+}, {
+  "extra": ["2020011601", "DEBIT", ""],
+  "Date": "2020/01/16",
+  "to": "DEBIT",
+  "Description": "FC12-3010-0133978-00 bou",
+  "Price": "-29.70"
+}, {
+  "extra": ["2020011602", "DEBIT", ""],
+  "Date": "2020/01/16",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-29.25"
+}, {
+  "extra": ["2020011603", "DEBIT", ""],
+  "Date": "2020/01/16",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-01 rebt",
+  "Price": "-198.75"
+}, {
+  "extra": ["2020011701", "EFTPOS", ""],
+  "Date": "2020/01/17",
+  "to": "HOMETOWN SUPERETTE AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-2.50"
+}, {
+  "extra": ["2020011702", "EFTPOS", ""],
+  "Date": "2020/01/17",
+  "to": "KEBAB TO GOGST 68-444-5",
+  "Description": "EFTPOS",
+  "Price": "-7.00"
+}, {
+  "extra": ["2020011703", "EFTPOS", ""],
+  "Date": "2020/01/17",
+  "to": "GRAFTON LIQUOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-21.99"
+}, {
+  "extra": ["2020011801", "DEBIT", ""],
+  "Date": "2020/01/18",
+  "to": "DEBIT",
+  "Description": "USD 12.95 EXPRESSVPN.C OM at 0.6614*",
+  "Price": "-19.58"
+}, {
+  "extra": ["2020011802", "DEBIT", ""],
+  "Date": "2020/01/18",
+  "to": "DEBIT",
+  "Description": " OffshoreServ iceMargins**",
+  "Price": "-0.41"
+}, {
+  "extra": ["2020011803", "CREDIT", ""],
+  "Date": "2020/01/18",
+  "to": "CREDIT",
+  "Description": "From MISS G E RAFE supermarket",
+  "Price": "36.00"
+}, {
+  "extra": ["2020011901", "EFTPOS", ""],
+  "Date": "2020/01/19",
+  "to": "SUSHI WA KIMCHEF AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-15.50"
+}, {
+  "extra": ["2020011902", "EFTPOS", ""],
+  "Date": "2020/01/19",
+  "to": "COUNTDOWN MTEDEN MT EDEN   NZ",
+  "Description": "EFTPOS",
+  "Price": "-59.33"
+}, {
+  "extra": ["2020011903", "DEBIT", ""],
+  "Date": "2020/01/19",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-17.54"
+}, {
+  "extra": ["2020012001", "D/D", ""],
+  "Date": "2020/01/20",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100CJ0001C",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020012002", "DEBIT", ""],
+  "Date": "2020/01/20",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-2.00"
+}, {
+  "extra": ["2020012003", "DEBIT", ""],
+  "Date": "2020/01/20",
+  "to": "DEBIT",
+  "Description": "FC12-3010-0133978-00 tb",
+  "Price": "-230.00"
+}, {
+  "extra": ["2020012004", "DEBIT", ""],
+  "Date": "2020/01/20",
+  "to": "DEBIT",
+  "Description": "CARD 7484 AKLD TRANSPO RT WEB AUCKLAND CIT",
+  "Price": "-150.00"
+}, {
+  "extra": ["2020012101", "DEBIT", ""],
+  "Date": "2020/01/21",
+  "to": "DEBIT",
+  "Description": "CARD 7484 STEAMGAMES.C OM SEATTLE",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020012102", "EFTPOS", ""],
+  "Date": "2020/01/21",
+  "to": "MCDONALDS GREY LYNN GREY LYNN",
+  "Description": "EFTPOS",
+  "Price": "-21.00"
+}, {
+  "extra": ["2020012201", "EFTPOS", ""],
+  "Date": "2020/01/22",
+  "to": "DUCHESS BAKERY AUCKLAND CEN",
+  "Description": "EFTPOS",
+  "Price": "-6.90"
+}, {
+  "extra": ["2020012301", "DEBIT", ""],
+  "Date": "2020/01/23",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-01 rebt",
+  "Price": "-347.50"
+}, {
+  "extra": ["2020012302", "D/C", ""],
+  "Date": "2020/01/23",
+  "to": "D/C FROM McMahon Z J",
+  "Description": "",
+  "Price": "9.38"
+}, {
+  "extra": ["2020012303", "EFTPOS", ""],
+  "Date": "2020/01/23",
+  "to": "Subway Grafton 61 Park Road",
+  "Description": "EFTPOS",
+  "Price": "-12.80"
+}, {
+  "extra": ["2020012304", "D/C", ""],
+  "Date": "2020/01/23",
+  "to": "D/C FROM ORION SYSTEMS INTERN",
+  "Description": "SALARY  OH SALARY",
+  "Price": "1196.19"
+}, {
+  "extra": ["2020012305", "EFTPOS", ""],
+  "Date": "2020/01/23",
+  "to": "COUNTDOWN MTEDEN MT EDEN   NZ",
+  "Description": "EFTPOS",
+  "Price": "-31.48"
+}, {
+  "extra": ["2020012306", "DEBIT", ""],
+  "Date": "2020/01/23",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-01 rebt",
+  "Price": "-198.75"
+}, {
+  "extra": ["2020012401", "D/C", ""],
+  "Date": "2020/01/24",
+  "to": "D/C FROM McMahon Q J",
+  "Description": "",
+  "Price": "9.38"
+}, {
+  "extra": ["2020012402", "EFTPOS", ""],
+  "Date": "2020/01/24",
+  "to": "Ruang ThongThai 2 Auckland",
+  "Description": "EFTPOS",
+  "Price": "-12.00"
+}, {
+  "extra": ["2020012501", "CREDIT", ""],
+  "Date": "2020/01/25",
+  "to": "CREDIT",
+  "Description": "From MISS G E RAFE rent",
+  "Price": "487.50"
+}, {
+  "extra": ["2020012502", "DEBIT", ""],
+  "Date": "2020/01/25",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-00 love you",
+  "Price": "-30.00"
+}, {
+  "extra": ["2020012503", "EFTPOS", ""],
+  "Date": "2020/01/25",
+  "to": "BOTTLE-O MTEDEN PH 09 630194",
+  "Description": "EFTPOS",
+  "Price": "-41.99"
+}, {
+  "extra": ["2020012504", "EFTPOS", ""],
+  "Date": "2020/01/25",
+  "to": "MT EDEN CONVENIENCE STOR MOUNT EDEN",
+  "Description": "EFTPOS",
+  "Price": "-11.70"
+}, {
+  "extra": ["2020012601", "DEBIT", ""],
+  "Date": "2020/01/26",
+  "to": "DEBIT",
+  "Description": "FC12-3086-0233289-51 bb",
+  "Price": "-9.50"
+}, {
+  "extra": ["2020012701", "D/D", ""],
+  "Date": "2020/01/27",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100CJL0019",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020012702", "EFTPOS", ""],
+  "Date": "2020/01/27",
+  "to": "KUNG FU NOODLES MOUNT EDEN",
+  "Description": "EFTPOS",
+  "Price": "-26.90"
+}, {
+  "extra": ["2020012703", "DEBIT", ""],
+  "Date": "2020/01/27",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-3.00"
+}, {
+  "extra": ["2020012704", "DEBIT", ""],
+  "Date": "2020/01/27",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-63.46"
+}, {
+  "extra": ["2020012705", "DEBIT", ""],
+  "Date": "2020/01/27",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-12.20"
+}, {
+  "extra": ["2020012706", "EFTPOS", ""],
+  "Date": "2020/01/27",
+  "to": "GRAFTON LIQUOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-21.99"
+}, {
+  "extra": ["2020012707", "CREDIT", ""],
+  "Date": "2020/01/27",
+  "to": "CREDIT",
+  "Description": "From MRS M L COLL AN beer beer beer",
+  "Price": "7.00"
+}, {
+  "extra": ["2020012708", "D/C", ""],
+  "Date": "2020/01/27",
+  "to": "D/C FROM JAMES PALMER-NEELS",
+  "Description": "",
+  "Price": "7.00"
+}, {
+  "extra": ["2020012801", "EFTPOS", ""],
+  "Date": "2020/01/28",
+  "to": "Electric Kiwi Auckland",
+  "Description": "EFTPOS",
+  "Price": "-33.03"
+}, {
+  "extra": ["2020012802", "EFTPOS", ""],
+  "Date": "2020/01/28",
+  "to": "Electric Kiwi Auckland",
+  "Description": "EFTPOS",
+  "Price": "-50.00"
+}, {
+  "extra": ["2020012803", "CREDIT", ""],
+  "Date": "2020/01/28",
+  "to": "CREDIT",
+  "Description": "From MR N J COOMBE gamer",
+  "Price": "13.50"
+}, {
+  "extra": ["2020012804", "CREDIT", ""],
+  "Date": "2020/01/28",
+  "to": "CREDIT",
+  "Description": "From MISS R E NORGRO nrothern northern bass",
+  "Price": "1144.28"
+}, {
+  "extra": ["2020012805", "DEBIT", ""],
+  "Date": "2020/01/28",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-9.50"
+}, {
+  "extra": ["2020012806", "DEBIT", ""],
+  "Date": "2020/01/28",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-48.08"
+}, {
+  "extra": ["2020012901", "DEBIT", ""],
+  "Date": "2020/01/29",
+  "to": "DEBIT",
+  "Description": "CARD 7484 AIRBNB  AIRBNB.COM",
+  "Price": "-1144.28"
+}, {
+  "extra": ["2020013001", "DEBIT", ""],
+  "Date": "2020/01/30",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-00 love you",
+  "Price": "-12.00"
+}, {
+  "extra": ["2020013002", "DEBIT", ""],
+  "Date": "2020/01/30",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-01 rebt",
+  "Price": "-198.75"
+}, {
+  "extra": ["2020013003", "CREDIT", ""],
+  "Date": "2020/01/30",
+  "to": "CREDIT",
+  "Description": "From MISS G E RAFE pizza",
+  "Price": "17.90"
+}, {
+  "extra": ["2020013101", "DEBIT", ""],
+  "Date": "2020/01/31",
+  "to": "DEBIT",
+  "Description": "CARD 7484 PIZZA HUT NE WMARKET AUCKLAND",
+  "Price": "-33.90"
+}, {
+  "extra": ["2020013102", "EFTPOS", ""],
+  "Date": "2020/01/31",
+  "to": "KEBAB TO GOGST 68-444-5",
+  "Description": "EFTPOS",
+  "Price": "-7.00"
+}, {
+  "extra": ["2020020201", "BANK FEE", ""],
+  "Date": "2020/02/02",
+  "to": "OVERDRAFT FACILITY FEE",
+  "Description": "",
+  "Price": "-2.00"
+}, {
+  "extra": ["2020020202", "EFTPOS", ""],
+  "Date": "2020/02/02",
+  "to": "EPSOM BARBERS AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-30.00"
+}, {
+  "extra": ["2020020203", "DEBIT", ""],
+  "Date": "2020/02/02",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-00 love you",
+  "Price": "-12.00"
+}, {
+  "extra": ["2020020301", "D/D", ""],
+  "Date": "2020/02/03",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100CKB001H",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020020302", "EFTPOS", ""],
+  "Date": "2020/02/03",
+  "to": "HOMETOWN SUPERETTE AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-3.00"
+}, {
+  "extra": ["2020020303", "DEBIT", ""],
+  "Date": "2020/02/03",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN  AUCKLAND",
+  "Price": "-46.17"
+}, {
+  "extra": ["2020020401", "EFTPOS", ""],
+  "Date": "2020/02/04",
+  "to": "GRAFTON LIQUOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-12.50"
+}, {
+  "extra": ["2020020501", "A/P", ""],
+  "Date": "2020/02/05",
+  "to": "Georgia rent",
+  "Description": "A/P rebt",
+  "Price": "-198.70"
+}, {
+  "extra": ["2020020502", "DEBIT", ""],
+  "Date": "2020/02/05",
+  "to": "DEBIT",
+  "Description": "CARD 7484 SPARK PREPAI D 0800323232",
+  "Price": "-19.00"
+}, {
+  "extra": ["2020020503", "D/C", ""],
+  "Date": "2020/02/05",
+  "to": "D/C FROM ORION SYSTEMS INTERN",
+  "Description": "SALARY  OH SALARY",
+  "Price": "1320.16"
+}, {
+  "extra": ["2020020504", "EFTPOS", ""],
+  "Date": "2020/02/05",
+  "to": "GRAFTON CONVENIENCE STOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-9.00"
+}, {
+  "extra": ["2020020601", "EFTPOS", ""],
+  "Date": "2020/02/06",
+  "to": "GRAFTON CONVENIENCE STOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-2.20"
+}, {
+  "extra": ["2020020602", "EFTPOS", ""],
+  "Date": "2020/02/06",
+  "to": "EVENT CINEMAS BROADWAY NEWMARKET",
+  "Description": "EFTPOS",
+  "Price": "-17.00"
+}, {
+  "extra": ["2020020603", "DEBIT", ""],
+  "Date": "2020/02/06",
+  "to": "DEBIT",
+  "Description": "FC38-9019-0401067-01 saving",
+  "Price": "-607.80"
+}, {
+  "extra": ["2020020701", "DEBIT", ""],
+  "Date": "2020/02/07",
+  "to": "DEBIT",
+  "Description": "CARD 7484 Stuff Fibre  0800-862-337",
+  "Price": "-39.98"
+}, {
+  "extra": ["2020020702", "DEBIT", ""],
+  "Date": "2020/02/07",
+  "to": "DEBIT",
+  "Description": "FC02-0192-0149976-00 xD",
+  "Price": "-8.00"
+}, {
+  "extra": ["2020020801", "EFTPOS", ""],
+  "Date": "2020/02/08",
+  "to": "GRAFTON CONVENIENCE STOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-3.20"
+}, {
+  "extra": ["2020020802", "DEBIT", ""],
+  "Date": "2020/02/08",
+  "to": "DEBIT",
+  "Description": "CARD 7484 MCDONALDS GR EY LYNN AUCKLAND",
+  "Price": "-9.50"
+}, {
+  "extra": ["2020020901", "DEBIT", ""],
+  "Date": "2020/02/09",
+  "to": "DEBIT",
+  "Description": "CARD 7484 UBER TRIP HE LP.UBER.COM Vorden",
+  "Price": "-10.19"
+}, {
+  "extra": ["2020020902", "EFTPOS", ""],
+  "Date": "2020/02/09",
+  "to": "Subway Grafton 61 Park Road",
+  "Description": "EFTPOS",
+  "Price": "-4.90"
+}, {
+  "extra": ["2020020903", "EFTPOS", ""],
+  "Date": "2020/02/09",
+  "to": "KIWI FUELS LTD AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-22.63"
+}, {
+  "extra": ["2020020904", "DEBIT", ""],
+  "Date": "2020/02/09",
+  "to": "DEBIT",
+  "Description": "CARD 7484 BOTTLE-O MT EDEN AUCKLAND",
+  "Price": "-26.99"
+}, {
+  "extra": ["2020020905", "EFTPOS", ""],
+  "Date": "2020/02/09",
+  "to": "HOMETOWN SUPERETTE AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-4.50"
+}, {
+  "extra": ["2020020906", "EFTPOS", ""],
+  "Date": "2020/02/09",
+  "to": "Ruang ThongThai 2 Auckland",
+  "Description": "EFTPOS",
+  "Price": "-36.00"
+}, {
+  "extra": ["2020021001", "D/C", ""],
+  "Date": "2020/02/10",
+  "to": "D/C FROM McMahon Z J",
+  "Description": "",
+  "Price": "15.30"
+}, {
+  "extra": ["2020021002", "D/C", ""],
+  "Date": "2020/02/10",
+  "to": "D/C FROM McMahon Q J",
+  "Description": "",
+  "Price": "15.30"
+}, {
+  "extra": ["2020021003", "D/D", ""],
+  "Date": "2020/02/10",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100CKV001K",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020021004", "DEBIT", ""],
+  "Date": "2020/02/10",
+  "to": "DEBIT",
+  "Description": "FC06-0193-0490172-00 mcd",
+  "Price": "-12.00"
+}, {
+  "extra": ["2020021005", "TFR OUT", ""],
+  "Date": "2020/02/10",
+  "to": "MB TRANSFER",
+  "Description": "TO 12-3086- 0178195-00",
+  "Price": "-600.00"
+}, {
+  "extra": ["2020021006", "TFR IN", ""],
+  "Date": "2020/02/10",
+  "to": "MB TRANSFER",
+  "Description": "EX 12-3086- 0178195-00",
+  "Price": "600.01"
+}, {
+  "extra": ["2020021101", "CREDIT", ""],
+  "Date": "2020/02/11",
+  "to": "CREDIT",
+  "Description": "From MISS G E RAFE what i owe u",
+  "Price": "21.00"
+}, {
+  "extra": ["2020021102", "EFTPOS", ""],
+  "Date": "2020/02/11",
+  "to": "GRAFTON LIQUOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-14.49"
+}, {
+  "extra": ["2020021201", "A/P", ""],
+  "Date": "2020/02/12",
+  "to": "Georgia rent",
+  "Description": "A/P rebt",
+  "Price": "-198.70"
+}, {
+  "extra": ["2020021202", "DEBIT", ""],
+  "Date": "2020/02/12",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN  AUCKLAND",
+  "Price": "-49.49"
+}, {
+  "extra": ["2020021203", "DEBIT", ""],
+  "Date": "2020/02/12",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-00 love you",
+  "Price": "-30.00"
+}, {
+  "extra": ["2020021401", "EFTPOS", ""],
+  "Date": "2020/02/14",
+  "to": "LE ROYAL BAKERY 21 PARK RD G",
+  "Description": "EFTPOS",
+  "Price": "-10.00"
+}, {
+  "extra": ["2020021402", "EFTPOS", ""],
+  "Date": "2020/02/14",
+  "to": "GRAFTON CONVENIENCE STOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-4.20"
+}, {
+  "extra": ["2020021403", "EFTPOS", ""],
+  "Date": "2020/02/14",
+  "to": "KEBAB TO GOGST 68-444-5",
+  "Description": "EFTPOS",
+  "Price": "-11.00"
+}, {
+  "extra": ["2020021601", "DEBIT", ""],
+  "Date": "2020/02/16",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-16.32"
+}, {
+  "extra": ["2020021701", "D/D", ""],
+  "Date": "2020/02/17",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100CLK001P",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020021702", "DEBIT", ""],
+  "Date": "2020/02/17",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN  AUCKLAND",
+  "Price": "-41.27"
+}, {
+  "extra": ["2020021703", "EFTPOS", ""],
+  "Date": "2020/02/17",
+  "to": "MUKBANG RESTAURANTS AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-50.00"
+}, {
+  "extra": ["2020021704", "DEBIT", ""],
+  "Date": "2020/02/17",
+  "to": "DEBIT",
+  "Description": "FC12-3048-0412585-50 zooweemama",
+  "Price": "-5.00"
+}, {
+  "extra": ["2020021705", "DEBIT", ""],
+  "Date": "2020/02/17",
+  "to": "DEBIT",
+  "Description": "USD 12.95 EXPRESSVPN.C OM at 0.6420*",
+  "Price": "-20.17"
+}, {
+  "extra": ["2020021706", "DEBIT", ""],
+  "Date": "2020/02/17",
+  "to": "DEBIT",
+  "Description": " OffshoreServ iceMargins**",
+  "Price": "-0.42"
+}, {
+  "extra": ["2020021901", "A/P", ""],
+  "Date": "2020/02/19",
+  "to": "Georgia rent",
+  "Description": "A/P rebt",
+  "Price": "-198.70"
+}, {
+  "extra": ["2020022001", "D/C", ""],
+  "Date": "2020/02/20",
+  "to": "D/C FROM ORION SYSTEMS INTERN",
+  "Description": "SALARY  OH SALARY",
+  "Price": "1913.77"
+}, {
+  "extra": ["2020022002", "DEBIT", ""],
+  "Date": "2020/02/20",
+  "to": "DEBIT",
+  "Description": "FC12-3048-0308227-50 nb",
+  "Price": "-320.00"
+}, {
+  "extra": ["2020022003", "DEBIT", ""],
+  "Date": "2020/02/20",
+  "to": "DEBIT",
+  "Description": "FC38-9019-0401067-01 saving",
+  "Price": "-784.15"
+}, {
+  "extra": ["2020022201", "EFTPOS", ""],
+  "Date": "2020/02/22",
+  "to": "YOKOSOMT EDEN AUCK",
+  "Description": "EFTPOS",
+  "Price": "-27.00"
+}, {
+  "extra": ["2020022202", "DEBIT", ""],
+  "Date": "2020/02/22",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-9.67"
+}, {
+  "extra": ["2020022301", "EFTPOS", ""],
+  "Date": "2020/02/23",
+  "to": "GRAFTON CONVENIENCE STOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-2.20"
+}, {
+  "extra": ["2020022302", "DEBIT", ""],
+  "Date": "2020/02/23",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-35.12"
+}, {
+  "extra": ["2020022303", "DEBIT", ""],
+  "Date": "2020/02/23",
+  "to": "DEBIT",
+  "Description": "FC12-3048-0308227-50 snags",
+  "Price": "-6.66"
+}, {
+  "extra": ["2020022401", "D/D", ""],
+  "Date": "2020/02/24",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100CM9001M",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020022402", "DEBIT", ""],
+  "Date": "2020/02/24",
+  "to": "DEBIT",
+  "Description": "CARD 7484 SUBWAY GRAFT ON AUCKLAND",
+  "Price": "-4.90"
+}, {
+  "extra": ["2020022403", "DEBIT", ""],
+  "Date": "2020/02/24",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN  AUCKLAND",
+  "Price": "-21.83"
+}, {
+  "extra": ["2020022501", "EFTPOS", ""],
+  "Date": "2020/02/25",
+  "to": "HOMETOWN SUPERETTE AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-2.50"
+}, {
+  "extra": ["2020022601", "A/P", ""],
+  "Date": "2020/02/26",
+  "to": "Georgia rent",
+  "Description": "A/P rebt",
+  "Price": "-198.70"
+}, {
+  "extra": ["2020022602", "DEBIT", ""],
+  "Date": "2020/02/26",
+  "to": "DEBIT",
+  "Description": "CARD 7484 UBER TRIP HE LP.UBER.COM Vorden",
+  "Price": "-10.58"
+}, {
+  "extra": ["2020022701", "DEBIT", ""],
+  "Date": "2020/02/27",
+  "to": "DEBIT",
+  "Description": "FC12-3035-0747220-01 rebt",
+  "Price": "-0.05"
+}, {
+  "extra": ["2020022702", "EFTPOS", ""],
+  "Date": "2020/02/27",
+  "to": "DUCHESS BAKERY AUCKLAND CEN",
+  "Description": "EFTPOS",
+  "Price": "-4.40"
+}, {
+  "extra": ["2020022703", "DEBIT", ""],
+  "Date": "2020/02/27",
+  "to": "DEBIT",
+  "Description": "CARD 7484 A NIGHT OF D RUM & TKTS TAURANGA",
+  "Price": "-155.10"
+}, {
+  "extra": ["2020022801", "D/C", ""],
+  "Date": "2020/02/28",
+  "to": "D/C FROM McMahon Q J",
+  "Description": "",
+  "Price": "20.80"
+}, {
+  "extra": ["2020022802", "D/C", ""],
+  "Date": "2020/02/28",
+  "to": "D/C FROM McMahon Z J",
+  "Description": "",
+  "Price": "20.80"
+}, {
+  "extra": ["2020022803", "EFTPOS", ""],
+  "Date": "2020/02/28",
+  "to": "MOORES SERVICE STN (2001 PAEROA",
+  "Description": "EFTPOS",
+  "Price": "-40.00"
+}, {
+  "extra": ["2020022804", "DEBIT", ""],
+  "Date": "2020/02/28",
+  "to": "DEBIT",
+  "Description": "CARD 7484 NOVA ENERGY  WELLINGTON",
+  "Price": "-83.49"
+}, {
+  "extra": ["2020022901", "DEBIT", ""],
+  "Date": "2020/02/29",
+  "to": "DEBIT",
+  "Description": "CARD 7484 GOOGLE  John Emulators Auckland",
+  "Price": "-2.99"
+}, {
+  "extra": ["2020022902", "EFTPOS", ""],
+  "Date": "2020/02/29",
+  "to": "WAIHI BEACHBAKERY WAIHI BEACH",
+  "Description": "EFTPOS",
+  "Price": "-9.00"
+}, {
+  "extra": ["2020022903", "EFTPOS", ""],
+  "Date": "2020/02/29",
+  "to": "BEACH GROCERS WAIHI BEACH",
+  "Description": "EFTPOS",
+  "Price": "-2.00"
+}, {
+  "extra": ["2020022904", "EFTPOS", ""],
+  "Date": "2020/02/29",
+  "to": "Lotto NZKatikati",
+  "Description": "EFTPOS",
+  "Price": "-20.00"
+}, {
+  "extra": ["2020022905", "EFTPOS", ""],
+  "Date": "2020/02/29",
+  "to": "DHILLON TAKEAWAYS KATIKATI",
+  "Description": "EFTPOS",
+  "Price": "-19.40"
+}, {
+  "extra": ["2020030101", "DEBIT", ""],
+  "Date": "2020/03/01",
+  "to": "DEBIT",
+  "Description": "CARD 7484 MCDONALDS PA EROA PAEROA",
+  "Price": "-20.00"
+}, {
+  "extra": ["2020030102", "EFTPOS", ""],
+  "Date": "2020/03/01",
+  "to": "GULL NGATEANGATEA HAURA",
+  "Description": "EFTPOS",
+  "Price": "-52.00"
+}, {
+  "extra": ["2020030103", "DEBIT", ""],
+  "Date": "2020/03/01",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN KA TIKATI KATIKATI",
+  "Price": "-10.68"
+}, {
+  "extra": ["2020030104", "CREDIT", ""],
+  "Date": "2020/03/01",
+  "to": "CREDIT",
+  "Description": "From MR N J COOMBE gamer",
+  "Price": "20.50"
+}, {
+  "extra": ["2020030201", "BANK FEE", ""],
+  "Date": "2020/03/02",
+  "to": "OVERDRAFT FACILITY FEE",
+  "Description": "",
+  "Price": "-2.00"
+}, {
+  "extra": ["2020030202", "D/D", ""],
+  "Date": "2020/03/02",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100CMT001R",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020030301", "DEBIT", ""],
+  "Date": "2020/03/03",
+  "to": "DEBIT",
+  "Description": "CARD 7484 STEAMGAMES.C OM SEATTLE",
+  "Price": "-37.00"
+}, {
+  "extra": ["2020030302", "DEBIT", ""],
+  "Date": "2020/03/03",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN  AUCKLAND",
+  "Price": "-20.43"
+}, {
+  "extra": ["2020030303", "DEBIT", ""],
+  "Date": "2020/03/03",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN  AUCKLAND",
+  "Price": "-12.87"
+}, {
+  "extra": ["2020030401", "A/P", ""],
+  "Date": "2020/03/04",
+  "to": "Georgia rent",
+  "Description": "A/P rebt",
+  "Price": "-198.70"
+}, {
+  "extra": ["2020030402", "DEBIT", ""],
+  "Date": "2020/03/04",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN  AUCKLAND",
+  "Price": "-9.94"
+}, {
+  "extra": ["2020030403", "DEBIT", ""],
+  "Date": "2020/03/04",
+  "to": "DEBIT",
+  "Description": "CARD 7484 SPARK PREPAI D 0800323232",
+  "Price": "-19.00"
+}, {
+  "extra": ["2020030501", "D/C", ""],
+  "Date": "2020/03/05",
+  "to": "D/C FROM ORION SYSTEMS INTERN",
+  "Description": "SALARY  OH SALARY",
+  "Price": "1593.84"
+}, {
+  "extra": ["2020030601", "EFTPOS", ""],
+  "Date": "2020/03/06",
+  "to": "Electric Kiwi Auckland",
+  "Description": "EFTPOS",
+  "Price": "-41.75"
+}, {
+  "extra": ["2020030602", "EFTPOS", ""],
+  "Date": "2020/03/06",
+  "to": "GRAFTON LIQUOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-28.99"
+}, {
+  "extra": ["2020030603", "DEBIT", ""],
+  "Date": "2020/03/06",
+  "to": "DEBIT",
+  "Description": "CARD 7484 BIAN SUSHI S YMONDS ST AUCKLAND",
+  "Price": "-12.20"
+}, {
+  "extra": ["2020030701", "DEBIT", ""],
+  "Date": "2020/03/07",
+  "to": "DEBIT",
+  "Description": "NZD 39.98 Stuff Fibre  0800-862-337",
+  "Price": "-39.98"
+}, {
+  "extra": ["2020030702", "EFTPOS", ""],
+  "Date": "2020/03/07",
+  "to": "GRAFTON CONVENIENCE STOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-2.20"
+}, {
+  "extra": ["2020030703", "DEBIT", ""],
+  "Date": "2020/03/07",
+  "to": "DEBIT",
+  "Description": "CARD 7484 SUBWAY GRAFT ON AUCKLAND",
+  "Price": "-12.80"
+}, {
+  "extra": ["2020030704", "DEBIT", ""],
+  "Date": "2020/03/07",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN  AUCKLAND",
+  "Price": "-7.50"
+}, {
+  "extra": ["2020030705", "EFTPOS", ""],
+  "Date": "2020/03/07",
+  "to": "PONSONBY LIQUOR AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-27.99"
+}, {
+  "extra": ["2020030801", "DEBIT", ""],
+  "Date": "2020/03/08",
+  "to": "DEBIT",
+  "Description": "CARD 7484 UBER TRIP HE LP.UBER.COM Vorden",
+  "Price": "-13.94"
+}, {
+  "extra": ["2020030802", "EFTPOS", ""],
+  "Date": "2020/03/08",
+  "to": "GRAFTON CONVENIENCE STOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-4.80"
+}, {
+  "extra": ["2020030803", "DEBIT", ""],
+  "Date": "2020/03/08",
+  "to": "DEBIT",
+  "Description": "CARD 7484 UBER TRIP HE LP.UBER.COM Vorden",
+  "Price": "-12.08"
+}, {
+  "extra": ["2020030804", "DEBIT", ""],
+  "Date": "2020/03/08",
+  "to": "DEBIT",
+  "Description": "CARD 7484 ST PIERRE'S  AUCKLAND",
+  "Price": "-9.90"
+}, {
+  "extra": ["2020030901", "D/D", ""],
+  "Date": "2020/03/09",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100CNI001O",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020030902", "DEBIT", ""],
+  "Date": "2020/03/09",
+  "to": "DEBIT",
+  "Description": "CARD 7484 SUBWAY GRAFT ON AUCKLAND",
+  "Price": "-4.90"
+}, {
+  "extra": ["2020031001", "DEBIT", ""],
+  "Date": "2020/03/10",
+  "to": "DEBIT",
+  "Description": "CARD 7484 MCDONALDS BA LMORAL AUCKLAND",
+  "Price": "-24.60"
+}, {
+  "extra": ["2020031101", "A/P", ""],
+  "Date": "2020/03/11",
+  "to": "Georgia rent",
+  "Description": "A/P rebt",
+  "Price": "-198.70"
+}, {
+  "extra": ["2020031102", "EFTPOS", ""],
+  "Date": "2020/03/11",
+  "to": "DUCHESS BAKERY AUCKLAND CEN",
+  "Description": "EFTPOS",
+  "Price": "-2.00"
+}, {
+  "extra": ["2020031103", "DEBIT", ""],
+  "Date": "2020/03/11",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-109.07"
+}, {
+  "extra": ["2020031104", "DEBIT", ""],
+  "Date": "2020/03/11",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN  AUCKLAND",
+  "Price": "-18.77"
+}, {
+  "extra": ["2020031105", "D/C", ""],
+  "Date": "2020/03/11",
+  "to": "D/C FROM McMahon Q J",
+  "Description": "",
+  "Price": "17.00"
+}, {
+  "extra": ["2020031201", "D/C", ""],
+  "Date": "2020/03/12",
+  "to": "D/C FROM McMahon Z J",
+  "Description": "",
+  "Price": "27.00"
+}, {
+  "extra": ["2020031301", "EFTPOS", ""],
+  "Date": "2020/03/13",
+  "to": "Galbraiths Alehouse 2 Mt Eden Rd",
+  "Description": "EFTPOS",
+  "Price": "-22.40"
+}, {
+  "extra": ["2020031302", "DEBIT", ""],
+  "Date": "2020/03/13",
+  "to": "DEBIT",
+  "Description": "FC12-3048-0308227-50 Thai",
+  "Price": "-12.00"
+}, {
+  "extra": ["2020031303", "DEBIT", ""],
+  "Date": "2020/03/13",
+  "to": "DEBIT",
+  "Description": "CARD 7484 RUANG THONG THAI RESTAUR AUCKLAND",
+  "Price": "-12.00"
+}, {
+  "extra": ["2020031304", "DEBIT", ""],
+  "Date": "2020/03/13",
+  "to": "DEBIT",
+  "Description": "FC12-3048-0308227-50 Thai",
+  "Price": "-19.00"
+}, {
+  "extra": ["2020031401", "EFTPOS", ""],
+  "Date": "2020/03/14",
+  "to": "GRAFTON LIQUOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-57.98"
+}, {
+  "extra": ["2020031402", "DEBIT", ""],
+  "Date": "2020/03/14",
+  "to": "DEBIT",
+  "Description": "FC12-3048-0308227-50 Thai",
+  "Price": "-6.50"
+}, {
+  "extra": ["2020031501", "DEBIT", ""],
+  "Date": "2020/03/15",
+  "to": "DEBIT",
+  "Description": "CARD 7484 UBER TRIP HE LP.UBER.COM Vorden",
+  "Price": "-9.82"
+}, {
+  "extra": ["2020031502", "EFTPOS", ""],
+  "Date": "2020/03/15",
+  "to": "GRAFTON CONVENIENCE STOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-4.80"
+}, {
+  "extra": ["2020031503", "DEBIT", ""],
+  "Date": "2020/03/15",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN  AUCKLAND",
+  "Price": "-16.70"
+}, {
+  "extra": ["2020031601", "D/D", ""],
+  "Date": "2020/03/16",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100CO7001N",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020031602", "EFTPOS", ""],
+  "Date": "2020/03/16",
+  "to": "DUCHESS BAKERY AUCKLAND CEN",
+  "Description": "EFTPOS",
+  "Price": "-4.50"
+}, {
+  "extra": ["2020031701", "DEBIT", ""],
+  "Date": "2020/03/17",
+  "to": "DEBIT",
+  "Description": "USD 12.95 EXPRESSVPN.C OM at 0.5987*",
+  "Price": "-21.63"
+}, {
+  "extra": ["2020031702", "DEBIT", ""],
+  "Date": "2020/03/17",
+  "to": "DEBIT",
+  "Description": " OffshoreServ iceMargins**",
+  "Price": "-0.45"
+}, {
+  "extra": ["2020031801", "A/P", ""],
+  "Date": "2020/03/18",
+  "to": "Georgia rent",
+  "Description": "A/P rebt",
+  "Price": "-198.70"
+}, {
+  "extra": ["2020031901", "D/C", ""],
+  "Date": "2020/03/19",
+  "to": "D/C FROM ORION SYSTEMS INTERN",
+  "Description": "SALARY  OH SALARY",
+  "Price": "1593.84"
+}, {
+  "extra": ["2020032001", "DEBIT", ""],
+  "Date": "2020/03/20",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-137.02"
+}, {
+  "extra": ["2020032002", "EFTPOS", ""],
+  "Date": "2020/03/20",
+  "to": "BURGER GEEKAUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-23.80"
+}, {
+  "extra": ["2020032003", "EFTPOS", ""],
+  "Date": "2020/03/20",
+  "to": "HOMETOWN SUPERETTE AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-4.60"
+}, {
+  "extra": ["2020032201", "DEBIT", ""],
+  "Date": "2020/03/22",
+  "to": "DEBIT",
+  "Description": "CARD 7484 UBER EATS HE LP.UBER.COM Amsterdam",
+  "Price": "-15.00"
+}, {
+  "extra": ["2020032202", "DEBIT", ""],
+  "Date": "2020/03/22",
+  "to": "DEBIT",
+  "Description": "FC02-0192-0149976-00 xD",
+  "Price": "-12.00"
+}, {
+  "extra": ["2020032203", "EFTPOS", ""],
+  "Date": "2020/03/22",
+  "to": "BREWS NEWMARKET AUCKLAND",
+  "Description": "EFTPOS",
+  "Price": "-41.48"
+}, {
+  "extra": ["2020032301", "D/D", ""],
+  "Date": "2020/03/23",
+  "to": "Cityfitness Group",
+  "Description": "D/D CityFitnessG 07100COS001Q",
+  "Price": "-11.99"
+}, {
+  "extra": ["2020032302", "DEBIT", ""],
+  "Date": "2020/03/23",
+  "to": "DEBIT",
+  "Description": "CARD 7484 SUBWAY GRAFT ON AUCKLAND",
+  "Price": "-4.90"
+}, {
+  "extra": ["2020032501", "A/P", ""],
+  "Date": "2020/03/25",
+  "to": "Georgia rent",
+  "Description": "A/P rebt",
+  "Price": "-198.70"
+}, {
+  "extra": ["2020033001", "EFTPOS", ""],
+  "Date": "2020/03/30",
+  "to": "GRAFTON CONVENIENCE STOR GRAFTON",
+  "Description": "EFTPOS",
+  "Price": "-3.80"
+}, {
+  "extra": ["2020033101", "DEBIT", ""],
+  "Date": "2020/03/31",
+  "to": "DEBIT",
+  "Description": "CARD 7484 COUNTDOWN MT EDEN AUCKLAND",
+  "Price": "-261.86"
+}, {
+  "extra": ["2020040101", "A/P", ""],
+  "Date": "2020/04/01",
+  "to": "Georgia rent",
+  "Description": "A/P rebt",
+  "Price": "-198.70"
+}, {
+  "extra": ["2020040102", "DEBIT", ""],
+  "Date": "2020/04/01",
+  "to": "DEBIT",
+  "Description": "CARD 7484 SPARK PREPAI D 0800323232",
+  "Price": "-19.00"
+}, {
+  "extra": ["2020040201", "D/C", ""],
+  "Date": "2020/04/02",
+  "to": "D/C FROM ORION SYSTEMS INTERN",
+  "Description": "SALARY  OH SALARY",
+  "Price": "7407.15"
+}, {
+  "extra": ["2020040401", "DEBIT", ""],
+  "Date": "2020/04/04",
+  "to": "DEBIT",
+  "Description": "FC12-3048-0308227-50 Thai",
+  "Price": "-21.00"
+}, {
+  "extra": ["2020040601", "EFTPOS", ""],
+  "Date": "2020/04/06",
+  "to": "Electric Kiwi Auckland",
+  "Description": "EFTPOS",
+  "Price": "-76.51"
+}]
